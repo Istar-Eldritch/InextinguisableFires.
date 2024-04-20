@@ -1,0 +1,1 @@
+ref IE_Log IEIF_LOG = new IE_Log("IEIF", IE_LogLevel.INFO);
