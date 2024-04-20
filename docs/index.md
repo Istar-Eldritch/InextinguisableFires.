@@ -2,7 +2,7 @@
 
 This mod allows you to place fires on your server that will never get stinguised. The mod is server side.
 
-This mods depends on [IEF](https://steamcommunity.com/sharedfiles/filedetails/?id=3198155295), if you only use this mod, you can set IEF as a server side mod only.
+This mods depends on [IEF](https://steamcommunity.com/sharedfiles/filedetails/?id=3199857963), if you only use this mod, you can set IEF as a server side mod only.
 
 You must place fireplaces on your map by any means you seem fit, any fireplace will work as long as it inherits from `FireplaceBase` should work out of the box. You can place them by hand, using DayZ Editor, or whatever tool you want. You do need to know their exact coordinates. Once the fires are placed and you have their coordinates add them to your configuration file.
 
